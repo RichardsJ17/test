@@ -1,3 +1,4 @@
 # Card Again
-	Working Version of Card Again game
+	Multiplayer Card Game Application
+	Made with classmates at ISU
 	Need to update / add documentation
